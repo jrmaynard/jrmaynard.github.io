@@ -21,14 +21,13 @@
 title: James Maynard Online
 email: jamesmaynardonline@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  
+  One man's thoughts on life and writing.
 domain: jrmaynard.github.io # the subpath of your site, e.g. /blog
 url: https://jrmaynard.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  jrmaynard
 
 # Build settings
-theme: minima
+theme: Minimal
 plugins:
   - jekyll-feed
 
