@@ -27,7 +27,7 @@ url: https://jrmaynard.github.io # the base hostname & protocol for your site, e
 github_username:  jrmaynard
 
 # Build settings
-
+theme: minimal
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
